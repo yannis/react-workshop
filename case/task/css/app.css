@@ -164,3 +164,8 @@ body {
 .countrylist li { list-style: none; }
 
 .countrylist .flag-icon { margin: 0px 5px; }
+
+.tweet {
+  float: left;
+  margin: 2em;
+}
